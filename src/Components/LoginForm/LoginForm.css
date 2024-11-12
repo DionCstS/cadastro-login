@@ -53,3 +53,12 @@
     accent-color: #fff;
     margin-right: 4px;
 }
+
+.remember-forgot a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.remember-forgot a:hover {
+    text-decoration: underline;
+}
