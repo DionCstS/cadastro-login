@@ -11,12 +11,12 @@ export const LoginForm = () => {
 
             <div className="input-box">
                 <input type="text" placeholder='Usuario' required/>
-                <FaUser />
+                <FaUser className='icon' />
             </div>
 
             <div className="input-box">
                 <input type="password" placeholder='Senha' required/>
-                <FaLock />
+                <FaLock className='icon'/>
             </div>
 
             <div className="remember-forgot">

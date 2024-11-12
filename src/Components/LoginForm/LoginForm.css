@@ -30,3 +30,11 @@
 .input-box input::placeholder {
     color: #fff;
 }
+
+.input-box .icon {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+}
