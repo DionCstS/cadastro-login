@@ -27,6 +27,7 @@
     border-radius: 40px;
     font-size: 16px;
     color: #fff;
+    padding: 22px 45px 20px 20px;
 }
 
 .input-box input::placeholder {
