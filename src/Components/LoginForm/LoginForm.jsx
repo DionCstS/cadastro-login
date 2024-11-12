@@ -10,12 +10,12 @@ export const LoginForm = () => {
             <h1>Login</h1>
 
             <div className="input-box">
-                <input type="text" placeholder='Usuario'/>
+                <input type="text" placeholder='Usuario' required/>
                 <FaUser />
             </div>
 
             <div className="input-box">
-                <input type="text" placeholder='Usuario'/>
+                <input type="password" placeholder='Senha' required/>
                 <FaLock />
             </div>
 
