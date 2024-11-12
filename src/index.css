@@ -15,7 +15,9 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: green;
+  background: url('./Components/Assets/retrosupply-jLwVAUtLOAQ-unsplash.jpg' ) no-repeat;
+  background-size: cover;
+  background-position: center;
   
 }
 
