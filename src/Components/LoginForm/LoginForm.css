@@ -1,0 +1,11 @@
+.wrapper {
+    width: 420px;
+    background: blueviolet;
+    color: #fff;
+
+}
+
+.wrapper h1 {
+    font-size: 36px;
+    text-align: center;
+}
