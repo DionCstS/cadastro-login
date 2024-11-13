@@ -15,7 +15,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('./Components/Assets/retrosupply-jLwVAUtLOAQ-unsplash.jpg' ) no-repeat;
+  background: black;
+  background: url('./Components/Assets/luke-chesser-IGtutkXikuc-unsplash.jpg' ) no-repeat;
   background-size: cover;
   background-position: center;
   
